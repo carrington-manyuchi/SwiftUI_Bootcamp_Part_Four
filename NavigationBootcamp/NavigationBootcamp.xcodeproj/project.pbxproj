@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E6B5D53B2C789099002E3749 /* NavigationBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D53A2C789099002E3749 /* NavigationBootcampApp.swift */; };
-		E6B5D53D2C789099002E3749 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D53C2C789099002E3749 /* ContentView.swift */; };
+		E6B5D53D2C789099002E3749 /* Navigations.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D53C2C789099002E3749 /* Navigations.swift */; };
 		E6B5D53F2C78909B002E3749 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6B5D53E2C78909B002E3749 /* Assets.xcassets */; };
 		E6B5D5422C78909B002E3749 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6B5D5412C78909B002E3749 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		E6B5D5372C789099002E3749 /* NavigationBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6B5D53A2C789099002E3749 /* NavigationBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBootcampApp.swift; sourceTree = "<group>"; };
-		E6B5D53C2C789099002E3749 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		E6B5D53C2C789099002E3749 /* Navigations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigations.swift; sourceTree = "<group>"; };
 		E6B5D53E2C78909B002E3749 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E6B5D5412C78909B002E3749 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				E6B5D53A2C789099002E3749 /* NavigationBootcampApp.swift */,
-				E6B5D53C2C789099002E3749 /* ContentView.swift */,
+				E6B5D53C2C789099002E3749 /* Navigations.swift */,
 				E6B5D53E2C78909B002E3749 /* Assets.xcassets */,
 				E6B5D5402C78909B002E3749 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6B5D53D2C789099002E3749 /* ContentView.swift in Sources */,
+				E6B5D53D2C789099002E3749 /* Navigations.swift in Sources */,
 				E6B5D53B2C789099002E3749 /* NavigationBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
