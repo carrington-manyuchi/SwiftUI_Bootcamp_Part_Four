@@ -12,7 +12,7 @@ struct Navigations: View {
         NavigationView {
             ScrollView {
                 NavigationLink("Helllo, World!!!") {
-                    SecondScreen()
+                    ListItemsBootcamps()
                 }
                 Text("Hello, Word!")
             }
